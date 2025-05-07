@@ -9,3 +9,7 @@ Connect with me:
 <a href="https://www.linkedin.com/in/felipe-gomes-7889918a/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="width:42px;height:42px;border:0;">
 </a>
+
+## My stats ⭐
+![gomesfelipe's Stats](https://github-readme-stats.vercel.app/api?username=gomesfelipe&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![gomesfelipe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfelipe&theme=buefy&show_icons=true&hide_border=true&layout=compact)
